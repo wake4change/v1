@@ -1,0 +1,10 @@
+Wake4Change — Pacote HTML + CSS (sem imagens)
+
+1) Enviar via FTP o conteúdo desta pasta para o document root do domínio (ex.: /public_html/wake4change.com/).
+2) Criar a pasta /assets (já incluída) e colocar dentro os seguintes ficheiros de imagem (descarregar em separado):
+   - /assets/logo.png
+   - /assets/favicon-32.png
+   - /assets/favicon-512.png
+   - /assets/fluxo_digital.png
+
+3) Os HTML já referenciam estes nomes de ficheiro. Basta fazer upload desses PNGs para que tudo fique a funcionar.
